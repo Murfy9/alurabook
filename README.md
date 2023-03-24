@@ -9,4 +9,6 @@ Curso na Alura - HTML e CSS: responsividade com mobile-first
 
 Projeto utilizando media queries na construção de layouts responsivos.
 
+
+<img src="aluraBook.png" alt="Alura Book">
 </div>
